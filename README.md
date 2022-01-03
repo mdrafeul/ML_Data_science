@@ -1,5 +1,7 @@
 # data_science
-This repo contains works regarding some projects on data science on data clustering, topic modeling and others works relate with data analysis like data cleaning, filtering or visualization. Most of work done by using Jupyter Notebook and python. 
-One thing to be noted that sometimes I have sliced dataset into a very tiny portion so that the file size become small and easily view able in github. 
+This repo contains several small but very interesting and essential projects like API data collection, data clustering, topic modeling, web scraping, and more. In almost all of the projects, I have done some basic works related to data analysis like data cleaning, filtering, or visualization. Most of the work was done by using Jupyter Notebook and python. 
+Please visit different brach where is a corresponding file included. 
 
-At the  end my heartful appreciation to visit here. 
+One thing to be noted is that sometimes I have sliced the dataset into a very tiny portion so that the file size becomes small and easily viewable in Github. 
+
+In the end my heartful appreciation for visiting the repo.
