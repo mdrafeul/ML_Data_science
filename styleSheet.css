@@ -1,0 +1,155 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'calibri', sans-serif;
+
+}
+
+
+body{
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+/* This below css for title and image  */
+.imgBx{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    overflow: hidden;
+    margin-left: 10px;
+}
+.imgBx img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.title{
+    position: relative;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+.title h2{
+    position: relative;
+    font-weight: 700;
+}
+.title h4{
+    font-weight: 400;
+    color: #747474;
+}
+
+/* This below styling is for left-side */
+.headerText{
+    padding-left: 4px;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.education{
+    margin-top: 20px;
+}
+#detailText{
+    padding-left: 1.5rem;
+    text-align: justify;
+    color: #494848;
+}
+.sections{
+    line-height: 0.5rem;
+}
+.emp_history #keyPoints{
+    line-height: 1.2rem;
+}
+.left-side h6{
+    padding-top: 0.2rem;
+    padding-left: 1.5rem;
+    font-weight: 550;
+}
+#durationText{
+    padding-left: 1.5rem;
+    color: #494848;
+    font-size: 14px;
+}
+#keyPoints{
+    padding-left: 3rem;
+    text-align: justify;
+    color: #494848;
+}
+.thesis{
+    margin-top: 20px;
+}
+#projectDetails{
+    padding-left: 3rem;
+    text-align: justify;
+    color: #494848;
+    text-align: justify;
+    line-height: 1.2rem;
+}
+
+.project{
+    margin-top: 20px;
+}
+
+/* right-side of resume */
+
+#details{
+    font-size: 14px;
+    line-height: 1.2rem;
+    color: rgb(29, 28, 28);
+}
+
+.details #details{
+    padding-left: 4px;
+}
+
+.personalDetails{
+    padding-left: 4px;
+    color: #494848;
+    font-size: 14px;
+}
+#nationality{
+    color: #494848;
+    font-size: 16px;
+}
+
+/* skills sections */
+.skills{
+    margin-top: 20px;
+}
+.skillText{
+    padding-top: 5px;
+    padding-left: 4px;
+    font-size: 15px;
+    color: black;
+    line-height: 1rem;
+}
+.progress{
+    height: 6px;
+}
+.languages{
+    margin-top: 20px;
+}
+.hobbies{
+    margin-top: 20px;
+}
+
+button{
+    font-size: 14px;
+    padding: 10px 20px;
+    margin: 50px 0 50px 140px;
+    background-color: rgb(77, 76, 76);
+    border: none;
+    outline: none;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    cursor: pointer;
+    transition: .5s;
+}
