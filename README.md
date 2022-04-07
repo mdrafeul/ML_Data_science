@@ -5,7 +5,7 @@ Please visit different brach where is a corresponding file included.
 The resume branch carries the resume I build for me using bootstrap, css and html. <br/>
 <img src="https://github.com/mdrafeul/data_science/blob/resume/resume.png" height="400"><br/>
 The brach "twitter_data" where we have tweets over 2.7 million and only visualize tweets for credible, non-credible web sites for the year 2020. <br/>
-<img src="https://github.com/mdrafeul/data_science/blob/twitter_data/sample_img_output.png"><br/>
+<img src="https://github.com/mdrafeul/data_science/blob/twitter_data/sample_img_output.png" height="250" width="500"><br/>
 One thing to be noted is that sometimes I have sliced the dataset into a very tiny portion (only for Jupyter Notebook) so that the file size becomes small and easily viewable in Github. 
 
 
